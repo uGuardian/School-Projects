@@ -1,0 +1,1 @@
+Each branch includes a separate project, while the master branch includes all projects.
