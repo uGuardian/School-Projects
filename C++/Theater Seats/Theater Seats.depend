@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1398355310 source:u:\c++\theater seats\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<math.h>
+	<windowsx.h>
+	<d3d9types.h>
+

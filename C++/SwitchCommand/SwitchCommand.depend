@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1392920393 source:u:\c++\switchcommand\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+
