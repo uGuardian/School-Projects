@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config transient="false" shared_ur="file:configuration/org.eclipse.update/platform.xml" date="1390928051497" version="3.0">
+	<site enabled="true" updateable="true" policy="USER-EXCLUDE" url="file:/U:/ADK/">
+		<feature id="com.android.ide.eclipse.traceview" url="features/com.android.ide.eclipse.traceview_22.3.0.v201310242005-887826/" version="22.3.0.v201310242005-887826">
+		</feature>
+		<feature id="com.android.ide.eclipse.ddms" url="features/com.android.ide.eclipse.ddms_22.3.0.v201310242005-887826/" version="22.3.0.v201310242005-887826">
+		</feature>
+		<feature id="com.android.ide.eclipse.ndk" url="features/com.android.ide.eclipse.ndk_22.3.0.v201310242005-887826/" version="22.3.0.v201310242005-887826">
+		</feature>
+		<feature id="com.android.ide.eclipse.hierarchyviewer" url="features/com.android.ide.eclipse.hierarchyviewer_22.3.0.v201310242005-887826/" version="22.3.0.v201310242005-887826">
+		</feature>
+		<feature id="com.android.ide.eclipse.adt" url="features/com.android.ide.eclipse.adt_22.3.0.v201310242005-887826/" version="22.3.0.v201310242005-887826">
+		</feature>
+		<feature id="com.android.ide.eclipse.gldebugger" url="features/com.android.ide.eclipse.gldebugger_22.3.0.v201310242005-887826/" version="22.3.0.v201310242005-887826">
+		</feature>
+	</site>
+</config>
